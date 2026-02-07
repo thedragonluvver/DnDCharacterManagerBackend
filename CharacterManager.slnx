@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CharacterManager.API/CharacterManager.API.csproj" />
+  <Project Path="CharacterManager.Core/CharacterManager.Core.csproj" />
+  <Project Path="CharacterManager.Infrastructure/CharacterManager.Infrastructure.csproj" />
+</Solution>
